@@ -1,3 +1,6 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Handjet:wght@300&family=Lugrasimo&family=Lumanosimo&family=Raleway&family=Tektur&family=Zilla+Slab:wght@300&display=swap');
+
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -22,7 +25,7 @@
 }
 .banner{
    
-    background: url(image/background.jpg); width: 100%; background-size: cover; height: 600px; linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background: url(image/rowan-freeman-clYlmCaQbzY-unsplash.jpg); width: 100%; background-size: cover; height: 600px; linear-gradient (rgba(0,0,0,0.5),rgba(0,0,0,0.5));
     display: flex;
 }
 .banner h1{
